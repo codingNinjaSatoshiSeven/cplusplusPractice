@@ -1,10 +1,4 @@
 /************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab3, Sort (C++)
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 9/21/2014
 * Description: This C++ program will Sort the unsorted array, and print out the sorted array. I used Bubble Sort
 **************************************************************************************************************************** */
 #include<iostream>

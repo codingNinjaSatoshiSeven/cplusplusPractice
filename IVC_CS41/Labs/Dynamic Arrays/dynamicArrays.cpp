@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab 3
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 9/14/2014
 * Description: This C++ program implement dynamic Array that can allocate array Dynamically and grow the size as needed
 * The program will then ask user to input integer to fill up the array
 * The program will terminate when user enter -1 from keyboard and return

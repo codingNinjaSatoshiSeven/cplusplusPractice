@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab 7, Linked List Based Stack
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 10/26/2014
 * Description: This is C++ program implement Stack based on linked list.
 * The stack will have basic push, pop, and
 * It will utilize the linked list based stack to parse and operate reverse polish notation

@@ -1,10 +1,4 @@
 /****************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab 8
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 12/07/2014
 * Description: This C++ program implement a Hash table
 ****************************************************************************/
 #include<iostream>

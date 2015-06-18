@@ -1,10 +1,4 @@
 /************************************************************************************
- * Irvine Valley College CS 41: Data Structure
- * Instructor: A.Lane
- * Assignment#: Lab2, Linear Search (C++)
- * Name: Shengtao Li
- * ID: 1015934
- * Due Date: 9/7/2014
  * Description: This C++ program will create an array of integer with size 10, fill the array with integer 0-9, and use the
  * linearSearch function to find if the integer inputed from user is in the array. If it is, the index of the matching number
  * is returned. Otherwise, -1 is returned. 
