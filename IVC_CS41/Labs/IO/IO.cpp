@@ -1,10 +1,4 @@
 /************************************************************************************
- * Irvine Valley College CS 41: Data Structure
- * Instructor: A.Lane
- * Assignment#: Lab2, IO (C++)
- * Name: Shengtao Li
- * ID: 1015934
- * Due Date: 9/7/2014
  * Description: This C++ program will read a line from console, and break the sentence into words using space as a delimiter.
  * It will iterate through all the words, and print out every word. If the word is a number, then it will print out double the number
 **************************************************************************************************************************** */

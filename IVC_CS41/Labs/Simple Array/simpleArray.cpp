@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
- * Irvine Valley College CS 41: Data Structure
- * Instructor: A.Lane
- * Assignment#: Lab2, Simple Array (C++)
- * Name: Shengtao Li
- * ID: 1015934
- * Due Date: 9/7/2014
  * Description: This C++ program will implement simple array of 5 elements
  * It will load the array from keyboard, and print the contents of the array
 **************************************************************************************************************************** */

@@ -1,10 +1,4 @@
 /************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab4, traversal(C++)
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 10/05/2014
 * Description: This C++ program will implement 3 different traversal method recursively 
 **************************************************************************************************************************** */
 #include<iostream>

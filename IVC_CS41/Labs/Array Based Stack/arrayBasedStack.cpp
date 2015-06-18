@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
- * Irvine Valley College CS 41: Data Structure
- * Instructor: A.Lane
- * Assignment#: Lab1
- * Name: Shengtao Li
- * ID: 1015934
- * Due Date: 8/24/2014
  * Description: This C++ program implement Stack based on array. It will set an array of MaxSize=10 (MaxSize is a constant member). 
  * It will have a member "Count" to indicate how many items are on the stack.
  * It will implement Push, Pop, and IsEmpty method. If the stack is full when trying to push element in, it will print an error. 

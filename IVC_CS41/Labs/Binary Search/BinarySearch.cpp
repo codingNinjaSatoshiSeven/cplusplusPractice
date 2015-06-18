@@ -1,10 +1,4 @@
 /************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Lab3, Binary SEarch (C++)
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 9/21/2014
 * Description:  This C++ program will take in a sorted array, and find the index of array that contain the matching number.
 * If number is not found, -1 will be returned
 *****************************************************************************************************************************/

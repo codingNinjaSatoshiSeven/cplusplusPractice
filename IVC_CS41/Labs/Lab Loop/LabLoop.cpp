@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
- * Irvine Valley College CS 41: Data Structure
- * Instructor: A.Lane
- * Assignment#: Lab2, Lab Loop (C++)
- * Name: Shengtao Li
- * ID: 1015934
- * Due Date: 9/7/2014
  * Description: This C++ program implements a method that uses loop to calculate summation. 
  * The loop will take an interger and return the summation . If the integer is less than 1, it will return 0, else it will return integer summation
  * all the way to the input integer. 

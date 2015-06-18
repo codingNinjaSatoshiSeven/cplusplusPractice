@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Assignment 3
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 10/12/2014
 * Description: This C++ program implement a Build a binary search tree,
 * using links (not an array) for 15 records. The data in these records will hold names and their associated weights. 
 * Read the data from the screen.

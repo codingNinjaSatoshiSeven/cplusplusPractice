@@ -1,10 +1,4 @@
 /****************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Assignment 4: BORG using hash table
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 12/07/2014
 * Description: This C++ program reads a BORG program file and perform operation
 * accordingly, and store them into hash table
 ****************************************************************************/

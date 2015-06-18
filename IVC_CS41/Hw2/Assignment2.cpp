@@ -1,10 +1,4 @@
 /*******************************************************************************************************************************************************************
-* Irvine Valley College CS 41: Data Structure
-* Instructor: A.Lane
-* Assignment#: Assignment 2
-* Name: Shengtao Li
-* ID: 1015934
-* Due Date: 9/21/2014
 * Description: This C++ program implement a double linked list that keeps user's name and weight sorted in ascending order.
 ********************************************************************************************************************************************************************/
 
